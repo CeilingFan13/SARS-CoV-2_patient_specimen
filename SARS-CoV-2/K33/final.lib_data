@@ -1,0 +1,37 @@
+ ---
+max read length: 251
+nomerge max read length: 251
+average read length: 233.042
+average coverage: 763.853
+libraries:       
+    - type:            paired-end
+      orientation:     fr
+      left reads:      
+        - /home/fan.shua/Personal_Project/SARS-CoV-2_patient_specimen/SARS-CoV-2/corrected/SRR13188515_1.00.0_0.cor.fastq.gz
+      right reads:     
+        - /home/fan.shua/Personal_Project/SARS-CoV-2_patient_specimen/SARS-CoV-2/corrected/SRR13188515_2.00.0_0.cor.fastq.gz
+      single reads:    
+        - /home/fan.shua/Personal_Project/SARS-CoV-2_patient_specimen/SARS-CoV-2/corrected/SRR13188515__unpaired.00.0_0.cor.fastq.gz
+      data:            
+        unmerged read length: 251
+        merged read length: 0
+        insert size mean: 0
+        insert size deviation: 0
+        insert size left quantile: 0
+        insert size right quantile: 0
+        insert size median: 0
+        insert size mad: 0
+        insert size distribution: {  }
+        pi threshold:    0
+        binary reads info: 
+          binary converted: true
+          bin reads info file: /home/fan.shua/Personal_Project/SARS-CoV-2_patient_specimen/SARS-CoV-2/.bin_reads/INFO_0
+          paired read prefix: /home/fan.shua/Personal_Project/SARS-CoV-2_patient_specimen/SARS-CoV-2/.bin_reads/paired_0
+          merged read prefix: /home/fan.shua/Personal_Project/SARS-CoV-2_patient_specimen/SARS-CoV-2/.bin_reads/merged_0
+          single read prefix: /home/fan.shua/Personal_Project/SARS-CoV-2_patient_specimen/SARS-CoV-2/.bin_reads/single_0
+          chunk num:       4
+        single reads mapped: false
+        library index:   0
+        number of reads: 232037
+        total nucleotides: 54074368
+...

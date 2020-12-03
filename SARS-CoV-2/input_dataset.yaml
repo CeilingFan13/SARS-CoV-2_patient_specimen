@@ -1,0 +1,6 @@
+- "left reads":
+  - "/home/fan.shua/Personal_Project/SARS-CoV-2_patient_specimen/Paired/SRR13188515_1.fastq"
+  "orientation": "fr"
+  "right reads":
+  - "/home/fan.shua/Personal_Project/SARS-CoV-2_patient_specimen/Paired/SRR13188515_2.fastq"
+  "type": "paired-end"

@@ -1,0 +1,6 @@
+TrimmomaticPE: Started with arguments:
+ -threads 1 -phred33 /home/fan.shua/Personal_Project/SARS-CoV-2_patient_specimen/SRR13188515_1.fastq /home/fan.shua/Personal_Project/SARS-CoV-2_patient_specimen/SRR13188515_2.fastq Paired/SRR13188515_1.fastq Unpaired/SRR13188515_1.fastq Paired/SRR13188515_2.fastq Unpaired/SRR13188515_2.fastq HEADCROP:0 ILLUMINACLIP:/usr/local/programs/Trimmomatic-0.36/adapters/TruSeq3-PE.fa:2:30:10 LEADING:20 TRAILING:20 SLIDINGWINDOW:4:30 MINLEN:36
+Using PrefixPair: 'TACACTCTTTCCCTACACGACGCTCTTCCGATCT' and 'GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT'
+ILLUMINACLIP: Using 1 prefix pairs, 0 forward/reverse sequences, 0 forward only sequences, 0 reverse only sequences
+Input Read Pairs: 132157 Both Surviving: 116019 (87.79%) Forward Only Surviving: 8358 (6.32%) Reverse Only Surviving: 1888 (1.43%) Dropped: 5892 (4.46%)
+TrimmomaticPE: Completed successfully
